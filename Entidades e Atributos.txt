@@ -1,0 +1,6 @@
+Corretor - CRECI, telefone, nome
+Cliente - CPF, nome, telefone
+Imóvel - MATRÍCULA,endereço
+Imobiliária - CNPJ, nome, endereço 
+Construtora - CNPJ, nome, endereço
+Registro(PROTOCOLO, data, creci_corretor) -> Registro_Vendas(comprador), Registro_Alugueis(data_vencimento)

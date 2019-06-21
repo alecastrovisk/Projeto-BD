@@ -1,0 +1,6 @@
+Imobiliária (1,1) - (0, n) Imóvel
+Construtora (1, n) - (1, n) Imobiliária
+Imobiliária (1,1) - (0, n) Corretor
+Corretor (1,1) - (0,n) Cliente
+Corretor (1,1) - (0, n) Registros
+Imóvel (1,1) - (0, n) Registros
